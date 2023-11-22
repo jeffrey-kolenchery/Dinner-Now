@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Application\\DinnerNow.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Application\\DinnerNow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Application\\DinnerNow.Application.csproj",
+        "projectName": "DinnerNow.Application",
+        "projectPath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Application\\DinnerNow.Application.csproj",
+        "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\DinnerNow.Domain.csproj": {
+                "projectPath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\DinnerNow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\DinnerNow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\DinnerNow.Domain.csproj",
+        "projectName": "DinnerNow.Domain",
+        "projectPath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\DinnerNow.Domain.csproj",
+        "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

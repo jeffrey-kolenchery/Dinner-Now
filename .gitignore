@@ -1,0 +1,7 @@
+#ignore dotnet build files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+

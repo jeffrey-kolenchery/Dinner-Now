@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6b8h+etx1BWZvyYQNBCBBwW7jyUk3u8ophCZaH2Bu2QLIAhVB397kNHXAXqtkj6Vr1/khv11FRNQ6WitSrbig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffr\\source\\repos\\jeffrey-kolenchery\\Dinner-Now\\DinnerNow\\DinnerNow.Api\\DinnerNow.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

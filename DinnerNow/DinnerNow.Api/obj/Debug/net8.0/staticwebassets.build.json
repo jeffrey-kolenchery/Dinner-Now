@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EqlEsKGGyeyspNe2ikUB2Zn9SM4SH3/TTF/rfhSflc8=",
+  "Source": "DinnerNow.Api",
+  "BasePath": "_content/DinnerNow.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

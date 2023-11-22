@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DinnerNow.Contracts\DinnerNow.Contracts.csproj" />
+    <ProjectReference Include="..\DinnerNow.Application\DinnerNow.Application.csproj" />
+    <ProjectReference Include="..\DinnerNow.Infrastructure\DinnerNow.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
